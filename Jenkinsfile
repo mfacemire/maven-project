@@ -3,7 +3,7 @@ pipeline {
     agent any
   
     tools {
-        java 'localJDK'
+        jdk 'localJDK'
         maven 'localMaven'
     }
         
