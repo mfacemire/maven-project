@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                bat 'mvn clean package'
+                bat 'C:\Users\Xadmin\Desktop\Unclassified Work\DevSecOps\apache-maven-3.5.4\bin\mvn clean package'
 
             }
 
